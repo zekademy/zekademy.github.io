@@ -21,7 +21,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="fa" dir="rtl">
+      <style>
+      body{
+        direction:rtl
+      }
+      </style>
       <head>
         <link
           rel="apple-touch-icon"
