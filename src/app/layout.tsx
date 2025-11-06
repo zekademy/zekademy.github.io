@@ -22,11 +22,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fa" dir="rtl">
-      <style>
-      body{
-        direction:rtl
-      }
-      </style>
       <head>
         <link
           rel="apple-touch-icon"
