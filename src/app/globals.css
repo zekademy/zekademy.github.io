@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 body{
-  direction:rtl
+  direction: rtl;
   font-family: 'Vazirmatn', sans-serif;
 }
