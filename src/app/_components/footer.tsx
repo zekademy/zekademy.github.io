@@ -25,13 +25,13 @@ export function Footer() {
 
             {/* آیکون‌های شبکه‌های اجتماعی */}
             <div className="flex justify-start md:justify-center gap-5 text-2xl mt-6">
-              <a href="https://instagram.com/zekademy" className="text-neutral-400 hover:text-pink-500 transition-colors duration-200" aria-label="Instagram">
+              <a href="https://www.instagram.com/zekademy.ir/#" className="text-neutral-400 hover:text-pink-500 transition-colors duration-200" aria-label="Instagram">
                 <FaInstagram />
               </a>
-              <a href="https://t.me/zekademy" className="text-neutral-400 hover:text-sky-400 transition-colors duration-200" aria-label="Telegram">
+              <a href="https://t.me/zekademy_ir" className="text-neutral-400 hover:text-sky-400 transition-colors duration-200" aria-label="Telegram">
                 <FaTelegramPlane />
               </a>
-              <a href="https://wa.me/989000000000" className="text-neutral-400 hover:text-green-500 transition-colors duration-200" aria-label="Whatsapp">
+              <a href="https://wa.me/989964626217" className="text-neutral-400 hover:text-green-500 transition-colors duration-200" aria-label="Whatsapp">
                 <FaWhatsapp />
               </a>
               <a href="https://aparat.com/zekademy" className="text-neutral-400 hover:text-red-500 transition-colors duration-200" aria-label="Aparat">
@@ -39,7 +39,7 @@ export function Footer() {
               </a>
               <a href="https://youtube.com/zekademy" className="text-neutral-400 hover:text-red-600 transition-colors duration-200" aria-label="YouTube">
                 <FaYoutube />
-              </a>
+              </a>  
             </div>
           </div>
 
