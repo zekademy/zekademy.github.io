@@ -37,7 +37,7 @@ export function Footer() {
               <a href="https://aparat.com/zekademy" className="text-neutral-400 hover:text-red-500 transition-colors duration-200" aria-label="Aparat">
                 <img src="https://www.aparat.com/redesign/static/pwa-assets/512.png" alt="Aparat" className="w-6 h-6" />
               </a>
-              <a href="https://youtube.com/zekademy" className="text-neutral-400 hover:text-red-600 transition-colors duration-200" aria-label="YouTube">
+              <a href="https://youtube.com/@zekademy-ir" className="text-neutral-400 hover:text-red-600 transition-colors duration-200" aria-label="YouTube">
                 <FaYoutube />
               </a>  
             </div>
